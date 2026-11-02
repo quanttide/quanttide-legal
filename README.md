@@ -7,6 +7,12 @@
 ## 子模块
 
 - `data/context`：语境
+- `data/intention`：意图与目标
+- `data/roadmap`：阶段规划
+- `data/library`：参考资料与文献索引
+- `data/profile`：材料档案
+- `data/brochure`：对外宣传
+- `docs/bylaw`：章程与法务制度
 
 ## 许可
 
